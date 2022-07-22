@@ -1,7 +1,7 @@
 
 ORG_EMAIL   = "@gmail.com"
-FROM_EMAIL  = "textdata49" + ORG_EMAIL
-FROM_PWD    = "nlsocsrxlamrxumq"
+FROM_EMAIL  = "youremail" + ORG_EMAIL
+FROM_PWD    = "yourpassword"
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT   = 465
 
