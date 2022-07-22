@@ -1,0 +1,10 @@
+{'Aspect of building work (indicate the aspect) 1': 'Cold formed light gauge steel framing (Only)',
+ 'Building/structure description': "'Line 7'", 
+ 'Class of building/structure 2': 'Class 1a', 'Description of the extent of aspect/s certified': 'Steel wall and roof framing (steel trusses, purlins, beams and wall bracing)'
+ , 'Street address 1': "''Line 2''", 'Postcode 1': "'Line 4'", 'Lot and plan details 1': 'Lot Line 2', 
+ 'Local government area 1': "'Line 5'",
+  'Basis of certification': "Certification based on Steel Building Systems (SBS) International test results, standard section data and check calculation and compliance with the requirements of the Building Code of Australia.\r\rDesign Wind Rating: Vhp = 'Line 6'"
+ , 'Reference documentation': "Steel Building Systems job number: 'Line 1'\rDrawings: FD 'Line 8' Job Information, FD 'Line 9' Steel Wall Framing, FD 'Line 10'\r Steel Roof Framing \rSBSI standard detail sheets: SBS 2004 WF01-WF013 & WF13-WF17\r                                                   SBS 2004 RF01-RF18, SBS 2004 BJ01-BJ04\r                                                   SBS 2004 PB pages 1 to 4, SBS 2004 SF01-SF05\r\r"
+ , 'Date R': None, 'Reference number': None, 'Building certifier’s name ': None, 'Building certifier reference number': None, 'Building development approval number': None, 'Name 1': 'Nicholas Murphy', 'Company name 1': 'Ginos Engineers Pty Ltd'
+ , 'Contact person 3': 'Nicholas Murphy', 'Business phone number 1': '(08) 8212 4900', 'Mobile number 1': None, 'Email address 1': 'nicholas@ginosengineers.com.au', 'Postal address 1': 'GPO Box 1170',
+  'Street address 2': "''Line 3''", 'Postcode 2': '5001', 'Licence class or registration type': 'RPEQ', 'Licence class or registration number': '10892', 'Date request to inspect received from building certifier': None, 'Date 9': "'Line 11'", 'Text10': None}
